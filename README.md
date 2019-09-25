@@ -96,3 +96,5 @@ while True:
 delay = raw_input("masukkan untuk selesai")
 
 '''
+
+# lUPA CARA screenshot pak sry
