@@ -9,7 +9,9 @@
 # Hasil Program saya
  
 
-***
+'''python
+
+
 import turtle
 import os
 
@@ -93,4 +95,4 @@ while True:
 
 delay = raw_input("masukkan untuk selesai")
 
-***python
+'''
